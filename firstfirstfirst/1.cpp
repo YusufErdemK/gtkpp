@@ -1,4 +1,5 @@
 // i'll explain all what i learn with comment lines, thats my first c++ gtk code.
+// 1
 
 // includes a gtk libary
 #include <gtkmm.h>
